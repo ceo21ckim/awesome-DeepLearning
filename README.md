@@ -1,5 +1,12 @@
 # Awesome-Recsys
 
+Inspired by [Jihoo-Kim's repository], I share information related to the Recommender System what I interested in.
+
+[Jihoo-Kim's repository]: https://github.com/jihoo-kim/awesome-RecSys
+
+- modified : 2022-04-05
+
+
 [Neural Collaborative Filtering] (WWW'17, He Xiangnan et al.)
 
 [Neural Collaborative Filtering]: http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf "NCF, NeuMF"
