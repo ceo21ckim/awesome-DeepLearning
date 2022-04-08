@@ -11,6 +11,7 @@ Inspired by [Jihoo-Kim's repository], I share information related to the Recomme
 
 * [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17, He Xiangnan et al.)
 * [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17 Xue, H.J et al.)
+* [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://web.archive.org/web/20160803143925id_/http://alicezheng.org:80/papers/wsdm16-cdae.pdf) (WSDM'16 Y. Wu et al.)
 * [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf) (SIGIR'16, He Xiangnan et al.)
 * [AutoRec: Autoencoders Meet Collaborative Filtering](https://web.archive.org/web/20160312152337id_/http://users.cecs.anu.edu.au/~ssanner/Papers/www15.pdf) (WWW'15, S. sedhain et al.)
 * [Logistic Matrix Factorization for Implicit Feedback](http://web.stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf) (NIPS'14, Johnson, C. C. )
