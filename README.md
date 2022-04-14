@@ -4,7 +4,7 @@ Inspired by [Jihoo-Kim's repository], I share information related to the Recomme
 
 [Jihoo-Kim's repository]: https://github.com/jihoo-kim/awesome-RecSys
 
-- modified : 2022-04-08
+- modified : 2022-04-15
 
 
 ## Papers
