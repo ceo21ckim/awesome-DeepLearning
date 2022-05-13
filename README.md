@@ -24,5 +24,3 @@ Inspired by [Jihoo-Kim's repository], I share information related to the Recomme
 * [Amazon.com recommendations: item-to-item collaborative filtering](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) (MIC'03, G. Linden et al.)
 * [Learning Collaborative Information Filters](https://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-005.pdf) (AAAI'98, D. Billsus et al.)
 * [GroupLens: An Open Architecture for Collaborative Filtering of Netnews](http://www.wdyd.com.cn/blog/wp-content/uploads/2017/02/2.resnick.pdf) (CSCW'94, P. Resnick et al.)
-
-..
