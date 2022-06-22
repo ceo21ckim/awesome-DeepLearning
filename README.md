@@ -1,4 +1,4 @@
-# Awesome
+# Awesome-DeepLearning
 I share information related to the Recommender System what I interested in.
 
 - modified : 2022-06-22
