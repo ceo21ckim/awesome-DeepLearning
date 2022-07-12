@@ -5,7 +5,6 @@ I share information related to the Recommender System what I interested in.
 
 
 ## Recommendation
-
 * [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17)
 * [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17)
 * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://web.archive.org/web/20160803143925id_/http://alicezheng.org:80/papers/wsdm16-cdae.pdf) (WSDM'16)
