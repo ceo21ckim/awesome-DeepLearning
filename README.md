@@ -34,7 +34,9 @@ I share information related to the Recommender System what I interested in.
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (CIKM'19)
 * [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
 
+### Survey
 
+* [Recommender System Application Developments: A Survey](https://www.uts.edu.au/sites/default/files/desi-publication-recommender%20system%20application%20developments%20a%20survey-accepted%20menuscript.pdf)
 
 ## Graph Mining
 
