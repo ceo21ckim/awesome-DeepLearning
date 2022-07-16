@@ -18,6 +18,7 @@ I share information related to the Recommender System what I interested in.
 * [The Netflix prize](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.6998&rep=rep1&type=pdf) (KDD'07)
 * [Item-based top-N recommendation algorithms](https://emunix.emich.edu/~wsverdlik/COSC562/ItemBasedTopTen.pdf) (TOIS'04)
 * [Amazon.com recommendations: item-to-item collaborative filtering](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) (MIC'03)
+* [Item-based collaborative filtering recommendation algorithms](https://dl.acm.org/doi/pdf/10.1145/371920.372071?casa_token=ITskTAW3II0AAAAA:jy81AUSR7Dvr__wPVc8fqsU4djofU8HmReqC4MtYhvW75f25DpEcNmFFSJR7OxRa5LzwZdsP2GDtig) (WWW'01)
 * [Learning Collaborative Information Filters](https://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-005.pdf) (AAAI'98)
 * [GroupLens: An Open Architecture for Collaborative Filtering of Netnews](http://www.wdyd.com.cn/blog/wp-content/uploads/2017/02/2.resnick.pdf) (CSCW'94)
 
