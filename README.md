@@ -1,7 +1,7 @@
 # Awesome-DeepLearning
 I share information related to the Recommender System what I interested in.
 
-- modified : 2022-07-13
+- modified : 2022-08-15
 
 
 ## Recommendation
@@ -47,3 +47,14 @@ I share information related to the Recommender System what I interested in.
 
 ### Graph Convolution Network 
 * [Semi-supervised Classification with Graph Convolutional Network](https://arxiv.org/pdf/1609.02907.pdf) (ICLR'17)
+
+
+
+
+
+
+## Natural Language Processing 
+
+* [Albert: A Lite Bert for Self-supervised Learning of Language Representations](https://arxiv.org/pdf/1909.11942.pdf)
+* [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)
+* [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
