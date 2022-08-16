@@ -38,12 +38,3 @@ I share information related to the Recommender System what I interested in.
 ### Survey
 
 * [Recommender System Application Developments: A Survey](https://www.uts.edu.au/sites/default/files/desi-publication-recommender%20system%20application%20developments%20a%20survey-accepted%20menuscript.pdf)
-
-## Graph Mining
-
-### Survey
-* [Deep Learing on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) (IEEE'18)
-* [A Comprehensive Survey on Graph Neural Network](https://arxiv.org/pdf/1901.00596.pdf) (IEEE'19)
-
-### Graph Convolution Network 
-* [Semi-supervised Classification with Graph Convolutional Network](https://arxiv.org/pdf/1609.02907.pdf) (ICLR'17)
