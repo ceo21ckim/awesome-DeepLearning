@@ -16,11 +16,8 @@
 * [SGC: Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf) (PMLR'19)
 
 
-### Survey
-* [Deep Learing on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) (IEEE'18)
-* [A Comprehensive Survey on Graph Neural Network](https://arxiv.org/pdf/1901.00596.pdf) (IEEE'19)
 
-**Embedding**
+### Embedding
 
 * [DeepWalk: online learning of social representations](https://arxiv.org/pdf/1403.6652.pdf) (KDD'14)
 * [LINE: Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf) (WWW'15)
@@ -35,12 +32,14 @@
 * [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf) (ICML'18)
 
 
-**GNN with Recommender Systems**
+### GNN with Recommender Systems
 
 * [NGCF: Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19)
 * [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 
-**Survey**
 
+### Survey
 * [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/pdf/1705.02801.pdf)
+* [Deep Learing on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) (IEEE'18)
+* [A Comprehensive Survey on Graph Neural Network](https://arxiv.org/pdf/1901.00596.pdf) (IEEE'19)
