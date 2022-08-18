@@ -25,13 +25,13 @@ I share information related to the Recommender System what I interested in.
 
 
 ### Recommenation with Graph
-* [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'2020)
+* [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 
 
 ### Recommendation with NLP
-* [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/abs/10.1145/3460231.3474255) (RecSys'2021)
-* [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'2020)
+* [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/abs/10.1145/3460231.3474255) (RecSys'21)
+* [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'20)
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (CIKM'19)
 * [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
 
