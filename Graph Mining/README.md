@@ -14,6 +14,7 @@
 * [SGCN: Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf) (ICML'19)
 * [GraphRec: Graph Neural Network for social Networks](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * [SGC: Simplifying Graph Convolutional Networks](https://arxiv.org/pdf/1902.07153.pdf) (PMLR'19)
+* [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/pdf/1903.03894.pdf) (NeurIps'19)
 
 
 
