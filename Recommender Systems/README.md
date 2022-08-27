@@ -29,6 +29,7 @@ I share information related to the Recommender System what I interested in.
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072) (SIGIR'20)
 * [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
+* [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19)
 
 
 ### Recommendation with NLP
