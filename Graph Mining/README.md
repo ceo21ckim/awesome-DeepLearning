@@ -38,6 +38,7 @@
 
 * [NGCF: Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) (SIGIR'19)
 * [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
+* [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19) 
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 
 
