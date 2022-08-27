@@ -1,7 +1,7 @@
 # Awesome Recommender Systems
 I share information related to the Recommender System what I interested in.
 
-- modified : 2022-08-18
+- modified : 2022-08-27
 
 
 ## Recommendation
