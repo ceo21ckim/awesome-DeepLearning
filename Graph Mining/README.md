@@ -2,7 +2,7 @@
 
 
 ### Models
-* [Semi-supervised Classification with Graph Convolutional Network](https://arxiv.org/pdf/1609.02907.pdf) (ICLR'17)
+
 * [DGCN: Diffusion-convolutional neural networks](https://arxiv.org/pdf/1511.02136.pdf) (NeurIPS'16)
 * [ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/pdf/1606.09375.pdf) (NeurIPS'16)
 * [GCN: Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf) (ICLR'17)
