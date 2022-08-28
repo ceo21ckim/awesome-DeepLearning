@@ -8,7 +8,7 @@ I share information related to the NLP what I interested in.
 
 ### Models
 * [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
-* [Big Bird: Transformers for Longer Sequences](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf) (NeurIP'20)
+* [BigBird: Transformers for Longer Sequences](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
 * [Electra: Pre-training text encoders as discriminators rather than generators](https://arxiv.org/pdf/2003.10555.pdf)
 * [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf)
 * [Albert: A Lite Bert for Self-supervised Learning of Language Representations](https://arxiv.org/pdf/1909.11942.pdf)
