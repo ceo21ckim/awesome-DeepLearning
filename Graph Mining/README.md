@@ -41,9 +41,11 @@
 * [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19) 
 * [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
-
+* [Self-supervised Graph Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) (SIGIR'21)
+* [Self-supervised Learning for Large-scale Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) (CIKM'21)
 
 ### Survey
 * [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/pdf/1705.02801.pdf)
 * [Deep Learing on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) (IEEE'18)
 * [A Comprehensive Survey on Graph Neural Network](https://arxiv.org/pdf/1901.00596.pdf) (IEEE'19)
+* [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/pdf/2203.15876.pdf) (2022)
