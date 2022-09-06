@@ -1,7 +1,7 @@
 # Awesome Natural Language Processing
 I share information related to the NLP what I interested in.
 
-- modified : 2022-08-15
+- modified : 2022-09-15
 
 
 ## Natural Language Processing 
