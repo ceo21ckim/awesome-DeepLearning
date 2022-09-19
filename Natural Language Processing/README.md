@@ -14,6 +14,8 @@ I share information related to the NLP what I interested in.
 
 - BERT: [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
+- BERT-E2E-ABSA: [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf)
+
 - RoBERTa: [A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)
 
 - ALBERT: [Albert: A Lite Bert for Self-supervised Learning of Language Representations](https://arxiv.org/pdf/1909.11942.pdf)
@@ -27,3 +29,8 @@ I share information related to the NLP what I interested in.
 - Reformer: [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
 - BERT-E2E-ABSA: [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://aclanthology.org/D19-5505.pdf)
+
+
+### Survey
+
+- [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/pdf/2203.01054.pdf)
