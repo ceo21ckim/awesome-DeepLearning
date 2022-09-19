@@ -28,8 +28,6 @@ I share information related to the NLP what I interested in.
 
 - Reformer: [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
-- BERT-E2E-ABSA: [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://aclanthology.org/D19-5505.pdf)
-
 
 ### Survey
 
