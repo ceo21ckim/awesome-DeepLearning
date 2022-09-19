@@ -14,7 +14,7 @@ I share information related to the NLP what I interested in.
 
 - BERT: [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
-- BERT-E2E-ABSA: [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf)
+- BERT-E2E-ABSA: [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf) (EMNLP'19)
 
 - RoBERTa: [A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)
 
