@@ -1,7 +1,7 @@
 # Awesome Recommender Systems
 I share information related to the Recommender System what I interested in. consist of `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`
 
-- modified : 2022-08-27
+- modified : 2022-10-04
 
 
 ## Recommendation
