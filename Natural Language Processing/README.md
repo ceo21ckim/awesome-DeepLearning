@@ -32,3 +32,5 @@ I share information related to the NLP what I interested in.
 ### Survey
 
 - [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/pdf/2203.01054.pdf)
+
+- [AMMUS: A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/pdf/2108.05542.pdf)
