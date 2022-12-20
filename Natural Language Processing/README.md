@@ -1,7 +1,7 @@
 # Awesome Natural Language Processing
 I share information related to the NLP what I interested in.
 
-- modified : 2022-09-15
+- modified : 2022-12-20
 
 
 ## Natural Language Processing 
@@ -19,6 +19,8 @@ I share information related to the NLP what I interested in.
 - GPT-2 (2019): [Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
 
 - XLM (2019): [Cross-lingual Language Model Pretraining](https://arxiv.org/pdf/1901.07291.pdf)
+
+- BART (2019): [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)
 
 - BERT-E2E-ABSA (2019): [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/pdf/1910.00883.pdf)
 
